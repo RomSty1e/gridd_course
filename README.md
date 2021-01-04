@@ -1,5 +1,5 @@
 # Machine-Learning-experience
-My experience in using Neural networks
+Machine learning course from Grid Dynamics
 
 В первой задаче было необходимо, используя kaggle dataset https://www.kaggle.com/c/dogs-vs-cats/data, произвести классификацию картинок по кошкам и собакам. 
 
