@@ -1,6 +1,6 @@
 # gridd_course
 Machine learning course from Grid Dynamics
 
-В первой задаче было необходимо, используя kaggle dataset https://www.kaggle.com/c/dogs-vs-cats/data, произвести классификацию картинок по кошкам и собакам. 
+In the first task it was necessary using kaggle dataset https://www.kaggle.com/c/dogs-vs-cats/data , classify images by cats and dogs. 
 
-Во второй задаче нужно было использовать transfer learning, чтобы обучить классификатор героев классических звёздных войн.
+In the second task, it was necessary to use transfer learning to train the classifier of heroes of classic Star Wars.
